@@ -1,7 +1,6 @@
 <!-- Welcome Section: Animation + Text in one line -->
 <div align="center">
-  <img src="https://camo.githubusercontent.com/33fa1ecbfc674cb894fee42114ce8034fc32529090afc1ef7ef03b2d45c87271/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="60" style="vertical-align: middle;" />
-  <span style="font-size: 24px; font-weight: bold;">Welcome to Ibrahim's Profile! <img src="https://camo.githubusercontent.com/33fa1ecbfc674cb894fee42114ce8034fc32529090afc1ef7ef03b2d45c87271/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="60" style="vertical-align: middle;" /></span>
+  <span style="font-size: 30px; font-weight: bold;">Welcome to Ibrahim's Profile! <img src="https://camo.githubusercontent.com/33fa1ecbfc674cb894fee42114ce8034fc32529090afc1ef7ef03b2d45c87271/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="20" style="vertical-align: middle;" /></span>
 </div>
 
 <!-- Typing Effect -->
