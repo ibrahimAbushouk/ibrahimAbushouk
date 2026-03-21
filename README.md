@@ -1,11 +1,16 @@
-<!-- Header Section -->
+<!-- Welcome Animation -->
+<div align="center">
+  <img src="https://camo.githubusercontent.com/33fa1ecbfc674cb894fee42114ce8034fc32529090afc1ef7ef03b2d45c87271/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="400" alt="welcome animation" />
+</div>
+
+<!-- Typing Effect -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2D9CFF&center=true&vCenter=true&width=500&lines=Software+Developer" alt="Typing SVG" />
 </div>
 
 <!-- Main Content -->
 <table width="100%">
-  <tr>
+   <tr>
     <td width="60%">
       <h2>👨‍💻 About Me</h2>
       <p>👨‍💻 I'm a Software Engineer specializing in <strong>Flutter Development</strong>.</p>
@@ -17,7 +22,7 @@
     <td width="40%" align="center">
       <img src="https://camo.githubusercontent.com/4a2458affa2ef4272b8ffd677cd99aa1f4e02750cf1d6ada6f1736cd7b25966a/68747470733a2f2f632e74656e6f722e636f6d2f5f444f426a6e4773705941414141414d2f636f64652d636f64696e672e676966" width="100%" alt="coding animation" />
     </td>
-  </tr>
+   </tr>
 </table>
 
 ---
