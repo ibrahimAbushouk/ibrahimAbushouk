@@ -1,9 +1,8 @@
 <!-- Welcome Section: Bold Large Text + Animation (same line) -->
 <div align="center">
-  <span style="font-size: 36px; font-weight: bold; display: inline-flex; align-items: center; gap: 10px;">
-    Welcome to Ibrahim's Profile!
-    <img src="https://camo.githubusercontent.com/33fa1ecbfc674cb894fee42114ce8034fc32529090afc1ef7ef03b2d45c87271/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="20" style="vertical-align: middle;" />
-  </span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=1&pause=1&color=000000&center=true&vCenter=true&width=600&lines=Welcome+to+Ibrahim's+Profile!" alt="Welcome Text" />
+  <br>
+  <img src="https://camo.githubusercontent.com/33fa1ecbfc674cb894fee42114ce8034fc32529090afc1ef7ef03b2d45c87271/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="45" />
 </div>
 
 <!-- Typing Effect -->
