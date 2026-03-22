@@ -1,6 +1,9 @@
-<!-- Welcome Section: Animation + Text in one line -->
+<!-- Welcome Section: Bold Large Text + Animation (same line) -->
 <div align="center">
-  <span style="font-size: 30px; font-weight: bold;">Welcome to Ibrahim's Profile! <img src="https://camo.githubusercontent.com/33fa1ecbfc674cb894fee42114ce8034fc32529090afc1ef7ef03b2d45c87271/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="20" style="vertical-align: middle;" /></span>
+  <span style="font-size: 36px; font-weight: bold; display: inline-flex; align-items: center; gap: 10px;">
+    Welcome to Ibrahim's Profile!
+    <img src="https://camo.githubusercontent.com/33fa1ecbfc674cb894fee42114ce8034fc32529090afc1ef7ef03b2d45c87271/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="20" style="vertical-align: middle;" />
+  </span>
 </div>
 
 <!-- Typing Effect -->
@@ -10,28 +13,32 @@
 
 <!-- Main Content -->
 <table width="100%">
-    <tr>
+       <tr>
         <td width="60%">
-            <h2>👨‍💻 About Me</h2>
-            <p>👨‍💻 I'm a Software Engineer specializing in <strong>Flutter Development</strong>.</p>
-            <p>👨‍💼 Experienced in building mobile apps focusing on intuitive user interfaces and engaging experiences.</p>
-            <p>🚀 Passionate about mobile technologies and exploring new frameworks and tools.</p>
-            <br/>
-            <p>I am <strong>dev-ibrahim-shouk</strong>, a Software Engineer with a strong background in <strong>Dart, Kotlin, and Flutter</strong>. I enjoy crafting mobile applications that not only function seamlessly but also provide exceptional user experiences. My journey in software development has been fueled by curiosity to innovate and a commitment to mastering new technologies.</p>
+          <h2>👨‍💻 About Me</h2>
+          <p>👨‍💻 I'm a Software Engineer specializing in <strong>Flutter Development</strong>.</p>
+          <p>👨‍💼 Experienced in building mobile apps focusing on intuitive user interfaces and engaging experiences.</p>
+          <p>🚀 Passionate about mobile technologies and exploring new frameworks and tools.</p>
+          <br/>
+          <p>I am <strong>dev-ibrahim-shouk</strong>, a Software Engineer with a strong background in <strong>Dart, Kotlin, and Flutter</strong>. I enjoy crafting mobile applications that not only function seamlessly but also provide exceptional user experiences. My journey in software development has been fueled by curiosity to innovate and a commitment to mastering new technologies.</p>
         </td>
         <td width="40%" align="center">
-            <img src="https://camo.githubusercontent.com/4a2458affa2ef4272b8ffd677cd99aa1f4e02750cf1d6ada6f1736cd7b25966a/68747470733a2f2f632e74656e6f722e636f6d2f5f444f426a6e4773705941414141414d2f636f64652d636f64696e672e676966" width="100%" alt="coding animation" />
+          <img src="https://camo.githubusercontent.com/4a2458affa2ef4272b8ffd677cd99aa1f4e02750cf1d6ada6f1736cd7b25966a/68747470733a2f2f632e74656e6f722e636f6d2f5f444f426a6e4773705941414141414d2f636f64652d636f64696e672e676966" width="100%" alt="coding animation" />
         </td>
-    </tr>
-</table>
+       </tr>
+     </table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ibrahimAbushouk&show_icons=true&theme=radical&hide_border=true" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimAbushouk&layout=compact&theme=radical&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimAbushouk&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimAbushouk&layout=compact&theme=radical&hide_border=true" width="40%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimAbushouk&theme=radical&hide_border=true" width="60%" />
 </div>
 
 ---
